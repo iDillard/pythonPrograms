@@ -2,7 +2,7 @@
 This program similates a student registering for class.
 Each class that is offered has a a set amount of students that are allowed to be in the class.
 
-StudentID:    Pins:    Instate:    Classes:    Credit Hours: 
+- StudentID:    Pins:    Instate:    Classes:    Credit Hours: 
 - 1001          111      T           CSC101       3               
 - 1002          222      F           CSC102       4
 - 1003          333      T           CSC103       5
