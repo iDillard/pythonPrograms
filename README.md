@@ -6,7 +6,7 @@ This repository contains programs I have built in both my spare time and for cla
 Programs will show my understanding of the following:
 - Object Oriented Programing
 - Reading from files
-- writing to files
+- Writing to files
 - Data Structures
 
 Some of these programs have been created with a group.
